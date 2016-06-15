@@ -2,6 +2,7 @@
 title: "Geohashing in R"
 author: "Oliver Keyes"
 date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Geohashing in R}
   %\VignetteEngine{knitr::rmarkdown}

@@ -1,8 +1,8 @@
 Package: geohash
 Type: Package
 Title: Tools for Geohash Creation and Manipulation
-Version: 0.1.1
-Date: 2016-04-13
+Version: 0.1.2
+Date: 2016-06-14
 Author: Oliver Keyes [aut, cre], G. Nagel [cph]
 Maintainer: Oliver Keyes <ironholds@gmail.com>
 Description: Provides tools to encode lat/long pairs into geohashes, decode those geohashes,
@@ -14,9 +14,9 @@ LazyData: TRUE
 LinkingTo: Rcpp
 Imports: Rcpp
 RoxygenNote: 5.0.1
-Suggests: testthat, knitr, olctools
+Suggests: testthat, knitr, rmarkdown, olctools
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2016-04-13 18:45:50 UTC; okeyes
+Packaged: 2016-06-14 22:43:25 UTC; ironholds
 Repository: CRAN
-Date/Publication: 2016-04-14 08:32:48
+Date/Publication: 2016-06-15 00:59:44
