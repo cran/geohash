@@ -5,8 +5,7 @@ __Author:__ Oliver Keyes<br/>
 __License:__ [MIT](http://opensource.org/licenses/MIT)<br/>
 __Status:__ Stable
 
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/geohash)](https://cran.r-project.org/package=geohash)
-![downloads](http://cranlogs.r-pkg.org/badges/grand-total/geohash)
+[![Travis-CI Build Status](https://travis-ci.org/Ironholds/geohash.svg?branch=master)](https://travis-ci.org/Ironholds/geohash) [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/geohash)](https://cran.r-project.org/package=geohash) ![downloads](http://cranlogs.r-pkg.org/badges/grand-total/geohash)
 
 ### Description
 
@@ -32,7 +31,3 @@ To get the development version (currently recommended):
 The latest CRAN version can be obtained via:
 
     install.packages("geohash")
-
-### Dependencies
-* R. Doy.
-* [Rcpp](https://cran.r-project.org/package=Rcpp)
